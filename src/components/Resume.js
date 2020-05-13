@@ -205,8 +205,8 @@ const Resume = () => {
           >
             Graduate of the "Tech-Career" web-development course.<br></br>
             course in the scope of 700 hours covering:<br></br>
-            Programming languages: JavaScript Front-End side:
-            ReactJS,Hooks,Context Api, HTML5, CSS3 | Bootstrap 4, jQuery
+            Programming languages: JavaScript <br></br>
+            Front-End side: ReactJS,Hooks,Context Api, HTML5, CSS3 | Bootstrap 4, jQuery
             <br></br>
             Back-End side: NodeJS, Express.js <br></br>
             Databases: MongoDB. Development environment: Visual Studio Code.
