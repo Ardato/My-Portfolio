@@ -138,7 +138,7 @@ const Resume = () => {
         </Box>
         <Box component="div" className={classes.timeLineItem}>
           <Typography variant="h5" align="left" className={classes.subHeading}>
-             WORKINK EXPERIENCED
+            WORKINK EXPERIENCED
           </Typography>
 
           <Typography
@@ -180,6 +180,36 @@ const Resume = () => {
             jQuery, Bootstrap 4,and Material-ui. <br></br>
             Quick learner, team player with excellent collaboration skills and
             open minded to learn and adopt new technologies
+          </Typography>
+        </Box>
+        {/*  */}
+        {/* EDUCATION */}
+        <Box component="div" className={classes.timeLine} align="center">
+          <Typography
+            variant="h2"
+            className={`${classes.timeLineYear} ${classes.timeLineItem}`}
+          >
+            2019/20
+          </Typography>
+        </Box>
+        <Box component="div" className={classes.timeLineItem}>
+          <Typography variant="h5" align="left" className={classes.subHeading}>
+            EDUCATION
+          </Typography>
+
+          <Typography
+            variant="subtitle1"
+            align="left"
+            className={classes.subHeading}
+            style={{ color: "tan" }}
+          >
+            Graduate of the "Tech-Career" web-development course.<br></br>
+            course in the scope of 700 hours covering:<br></br>
+            Programming languages: JavaScript Front-End side:
+            ReactJS,Hooks,Context Api, HTML5, CSS3 | Bootstrap 4, jQuery
+            <br></br>
+            Back-End side: NodeJS, Express.js <br></br>
+            Databases: MongoDB. Development environment: Visual Studio Code.
           </Typography>
         </Box>
       </Box>
