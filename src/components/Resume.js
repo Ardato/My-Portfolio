@@ -55,7 +55,7 @@ const useStyles = makeStyles((theme) => ({
       width: "44%",
       margin: "1rem",
       "&:nth-of-type(2n):before": {
-        right: "auto",
+        //right: "auto",
         right: "-0.625rem",
         borderColor: "transparent transparent tomato tomato",
       },
