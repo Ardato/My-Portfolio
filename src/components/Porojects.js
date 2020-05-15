@@ -52,11 +52,16 @@ function Porojects() {
                   The Book Shelf
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
-                   Built Using React,NodeJs and MongoDB 
+                  Built Using React,NodeJs and MongoDB
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
+              <Button>
+                <a href="https://github.com/Avshalom-Mogos/the-book-shelf-MERN">
+                  github
+                </a>
+              </Button>
               <Button size="small" color="primary">
                 <a href="https://the-book-shelf-project.herokuapp.com/">
                   Live Demo
@@ -77,14 +82,17 @@ function Porojects() {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                   Weather App
+                  Weather App
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
-                 Built Using  React JS
+                  Built Using React JS
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
+              <Button>
+                <a href="https://github.com/Ardato/weather-app-react">github</a>
+              </Button>
               <Button size="small" color="primary">
                 <a href="https://ardato.github.io/weather-app-react/">
                   Live Demo
@@ -108,11 +116,12 @@ function Porojects() {
                   Exspense Tracker
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
-                Built Using React Hooks and Context Api
+                  Built Using React Hooks and Context Api
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
+              <Button>  <a href="https://github.com/Ardato/expense-tracker-react">github</a> </Button>
               <Button size="small" color="primary">
                 <a href="https://ardato.github.io/expense-tracker-react/">
                   Live Demo{" "}
@@ -133,14 +142,15 @@ function Porojects() {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                 COVID-19 Tracker App
+                  COVID-19 Tracker App
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
-                  Built Using React Hooks and Material Ui 
+                  Built Using React Hooks and Material Ui
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
+              <Button><a href="https://github.com/Ardato/COVID-19-Tracker-Application">github</a></Button>
               <Button size="small" color="primary">
                 <a href="https://limitless-garden-72412.herokuapp.com/">
                   Live Demo
@@ -165,21 +175,18 @@ function Porojects() {
                   Todo List
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
-                  Built Using JS and  Bootstrap 
+                  Built Using JS and Bootstrap
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
+              <Button><a href="https://github.com/Ardato/To-do-list"> github</a> </Button>
               <Button size="small" color="primary">
-                <a href="https://loving-keller-25deb2.netlify.app">
-                  Live Demo
-                </a>
+                <a href="https://loving-keller-25deb2.netlify.app">Live Demo</a>
               </Button>
             </CardActions>
           </Card>
         </Grid>
-
-
 
         {/* Poroject 6*/}
         <Grid item xs={12} sm={8} md={6}>
@@ -190,18 +197,18 @@ function Porojects() {
                 alt="project 6"
                 height="140"
                 image={project6}
-                  
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
                   Microsoft Homepage
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
-                   Built Using html and css
+                  Built Using html and css
                 </Typography>
               </CardContent>
             </CardActionArea>
             <CardActions>
+              <Button><a href="https://github.com/Ardato/Microsoft-Homepage">github</a></Button>
               <Button size="small" color="primary">
                 <a href="https://objective-rosalind-875ef9.netlify.app">
                   Live Demo

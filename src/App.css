@@ -32,3 +32,8 @@ body{
 .contact {
   color: yellow;
 }
+
+a {
+  
+  text-decoration: none;
+}
