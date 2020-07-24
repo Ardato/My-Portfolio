@@ -4,7 +4,7 @@ import {Route} from "react-router-dom";
 import './App.css';
 import Home from './components';
 import Resume from './components/Resume';
-import Porojects from './components/Porojects';
+import Porojects from './components/Projects';
 import Contact from './components/Contact';
 function App() {
   return (

@@ -1,11 +1,12 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import project1 from "../images/p1.png";
-import project2 from "../images/p2.png";
-import project3 from "../images/p3.png";
-import project4 from "../images/p4.png";
-import project5 from "../images/p5.png";
-import project6 from "../images/p6.png";
+import The_Book_Shelf from "../images/The_Book_Shelf.png";
+import  Weather_App from "../images/Weather_App.png";
+import Exspense_Tracker from "../images/Exspense_Tracker.png";
+import  COVID_19 from "../images/COVID_19.png";
+import Todo_List from "../images/Todo_List.png";
+import Microsoft_Homepage from "../images/Microsoft_Homepage.png";
+import taskManage from "../images/taskManage.png";
 import {
   Typography,
   Box,
@@ -45,7 +46,7 @@ function Porojects() {
                 component="img"
                 alt="project 1"
                 height="140"
-                image={project1}
+                image={The_Book_Shelf}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
@@ -78,7 +79,7 @@ function Porojects() {
                 component="img"
                 alt="project 2"
                 height="140"
-                image={project2}
+                image={Weather_App}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
@@ -109,7 +110,7 @@ function Porojects() {
                 component="img"
                 alt="project 3"
                 height="140"
-                image={project3}
+                image={Exspense_Tracker}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
@@ -138,7 +139,7 @@ function Porojects() {
                 component="img"
                 alt="project 4"
                 height="140"
-                image={project4}
+                image={COVID_19}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
@@ -168,7 +169,7 @@ function Porojects() {
                 component="img"
                 alt="project 5"
                 height="140"
-                image={project5}
+                image={Todo_List}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
@@ -196,7 +197,7 @@ function Porojects() {
                 component="img"
                 alt="project 6"
                 height="140"
-                image={project6}
+                image={Microsoft_Homepage}
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
@@ -211,6 +212,40 @@ function Porojects() {
               <Button><a href="https://github.com/Ardato/Microsoft-Homepage">github</a></Button>
               <Button size="small" color="primary">
                 <a href="https://objective-rosalind-875ef9.netlify.app">
+                  Live Demo
+                </a>
+              </Button>
+            </CardActions>
+          </Card>
+        </Grid>
+
+
+
+
+
+         {/* Poroject 7*/}
+         <Grid item xs={12} sm={8} md={6}>
+          <Card className={classes.cardContainer}>
+            <CardActionArea>
+              <CardMedia
+                component="img"
+                alt="project 7"
+                height="140"
+                image={taskManage}
+              />
+              <CardContent>
+                <Typography gutterBottom variant="h5">
+                 Task Manager
+                </Typography>
+                <Typography variant="body2" color="textSecondary" componenr="p">
+                Built Using Context Api and React Hooks and browser local storage
+                </Typography>
+              </CardContent>
+            </CardActionArea>
+            <CardActions>
+              <Button><a href="https://github.com/Ardato/TaskManager">github</a></Button>
+              <Button size="small" color="primary">
+                <a href="https://ardato.github.io/TaskManager/">
                   Live Demo
                 </a>
               </Button>

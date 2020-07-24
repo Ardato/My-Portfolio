@@ -47,7 +47,7 @@ function Header() {
             <br/>
             <Typography className={classes.subtitle} variant="h5"> 
             <Typed 
-            strings={['Web Design','Web Development','MERN Stack']} 
+            strings={['Web Development','MERN Stack']} 
             typeSpeed={40}
             backSpeed={50}
             loop
