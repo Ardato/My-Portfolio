@@ -114,7 +114,7 @@ function Porojects() {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5">
-                  Exspense Tracker
+                  Expense Tracker
                 </Typography>
                 <Typography variant="body2" color="textSecondary" componenr="p">
                   Built Using React Hooks and Context Api
