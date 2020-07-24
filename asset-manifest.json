@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.0d77019c.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.91d1d458.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.91d1d458.chunk.js.map",
+    "main.js": "/My-Portfolio/static/js/main.89f6cffe.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.89f6cffe.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.587418a8.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.587418a8.js.map",
     "static/js/2.63fa6ffb.chunk.js": "/My-Portfolio/static/js/2.63fa6ffb.chunk.js",
     "static/js/2.63fa6ffb.chunk.js.map": "/My-Portfolio/static/js/2.63fa6ffb.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "precache-manifest.eb0c285ed5c9cdb46f65b09f1c83aad7.js": "/My-Portfolio/precache-manifest.eb0c285ed5c9cdb46f65b09f1c83aad7.js",
+    "precache-manifest.0291d3ba3d53c9413a1e8a7d68c99989.js": "/My-Portfolio/precache-manifest.0291d3ba3d53c9413a1e8a7d68c99989.js",
     "service-worker.js": "/My-Portfolio/service-worker.js",
     "static/css/main.0d77019c.chunk.css.map": "/My-Portfolio/static/css/main.0d77019c.chunk.css.map",
     "static/js/2.63fa6ffb.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.63fa6ffb.chunk.js.LICENSE.txt",
+    "static/media/COVID_19.png": "/My-Portfolio/static/media/COVID_19.a3898c20.png",
+    "static/media/Exspense_Tracker.png": "/My-Portfolio/static/media/Exspense_Tracker.224dd74f.png",
+    "static/media/Microsoft_Homepage.png": "/My-Portfolio/static/media/Microsoft_Homepage.bc4c1540.png",
+    "static/media/The_Book_Shelf.png": "/My-Portfolio/static/media/The_Book_Shelf.7938a9f8.png",
+    "static/media/Todo_List.png": "/My-Portfolio/static/media/Todo_List.a1937fce.png",
+    "static/media/Weather_App.png": "/My-Portfolio/static/media/Weather_App.677eaa71.png",
     "static/media/App.css": "/My-Portfolio/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/p1.png": "/My-Portfolio/static/media/p1.7938a9f8.png",
-    "static/media/p2.png": "/My-Portfolio/static/media/p2.8ee70398.png",
-    "static/media/p3.png": "/My-Portfolio/static/media/p3.988029ca.png",
-    "static/media/p4.png": "/My-Portfolio/static/media/p4.e0d13cb6.png",
-    "static/media/p5.png": "/My-Portfolio/static/media/p5.a1937fce.png",
-    "static/media/p6.png": "/My-Portfolio/static/media/p6.bc4c1540.png",
     "static/media/pic.jpg": "/My-Portfolio/static/media/pic.5ce8c9c5.jpg",
     "static/media/taskManage.png": "/My-Portfolio/static/media/taskManage.2abe4378.png"
   },
@@ -26,6 +26,6 @@
     "static/js/runtime-main.587418a8.js",
     "static/js/2.63fa6ffb.chunk.js",
     "static/css/main.0d77019c.chunk.css",
-    "static/js/main.91d1d458.chunk.js"
+    "static/js/main.89f6cffe.chunk.js"
   ]
 }
