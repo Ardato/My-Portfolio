@@ -138,7 +138,7 @@ const Resume = () => {
         </Box>
         <Box component="div" className={classes.timeLineItem}>
           <Typography variant="h5" align="left" className={classes.subHeading}>
-            WORKINK EXPERIENCED
+          WORK EXPERIENCE
           </Typography>
 
           <Typography
