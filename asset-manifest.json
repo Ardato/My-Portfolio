@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.0d77019c.chunk.css",
-    "main.js": "/My-Portfolio/static/js/main.9f9068cc.chunk.js",
-    "main.js.map": "/My-Portfolio/static/js/main.9f9068cc.chunk.js.map",
+    "main.js": "/My-Portfolio/static/js/main.8e54297c.chunk.js",
+    "main.js.map": "/My-Portfolio/static/js/main.8e54297c.chunk.js.map",
     "runtime-main.js": "/My-Portfolio/static/js/runtime-main.587418a8.js",
     "runtime-main.js.map": "/My-Portfolio/static/js/runtime-main.587418a8.js.map",
-    "static/js/2.49330a01.chunk.js": "/My-Portfolio/static/js/2.49330a01.chunk.js",
-    "static/js/2.49330a01.chunk.js.map": "/My-Portfolio/static/js/2.49330a01.chunk.js.map",
+    "static/js/2.d7a9fc0f.chunk.js": "/My-Portfolio/static/js/2.d7a9fc0f.chunk.js",
+    "static/js/2.d7a9fc0f.chunk.js.map": "/My-Portfolio/static/js/2.d7a9fc0f.chunk.js.map",
     "index.html": "/My-Portfolio/index.html",
-    "precache-manifest.e37273de5ea599ede08c8d5507a60bd0.js": "/My-Portfolio/precache-manifest.e37273de5ea599ede08c8d5507a60bd0.js",
+    "precache-manifest.aa69ea8de349e164cb2223131ae1b20c.js": "/My-Portfolio/precache-manifest.aa69ea8de349e164cb2223131ae1b20c.js",
     "service-worker.js": "/My-Portfolio/service-worker.js",
     "static/css/main.0d77019c.chunk.css.map": "/My-Portfolio/static/css/main.0d77019c.chunk.css.map",
-    "static/js/2.49330a01.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.49330a01.chunk.js.LICENSE.txt",
+    "static/js/2.d7a9fc0f.chunk.js.LICENSE.txt": "/My-Portfolio/static/js/2.d7a9fc0f.chunk.js.LICENSE.txt",
     "static/media/COVID_19.png": "/My-Portfolio/static/media/COVID_19.a3898c20.png",
     "static/media/Exspense_Tracker.png": "/My-Portfolio/static/media/Exspense_Tracker.224dd74f.png",
     "static/media/Gallery.png": "/My-Portfolio/static/media/Gallery.c2fd8491.png",
     "static/media/Microsoft_Homepage.png": "/My-Portfolio/static/media/Microsoft_Homepage.bc4c1540.png",
+    "static/media/Proshop.png": "/My-Portfolio/static/media/Proshop.0f802bdf.png",
     "static/media/The_Book_Shelf.png": "/My-Portfolio/static/media/The_Book_Shelf.7938a9f8.png",
     "static/media/Todo_List.png": "/My-Portfolio/static/media/Todo_List.a1937fce.png",
     "static/media/Weather_App.png": "/My-Portfolio/static/media/Weather_App.677eaa71.png",
@@ -25,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.587418a8.js",
-    "static/js/2.49330a01.chunk.js",
+    "static/js/2.d7a9fc0f.chunk.js",
     "static/css/main.0d77019c.chunk.css",
-    "static/js/main.9f9068cc.chunk.js"
+    "static/js/main.8e54297c.chunk.js"
   ]
 }
